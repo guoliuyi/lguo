@@ -36,12 +36,12 @@ redirect_from:
 <ol class="paper-list">
   <li>
     Structural Analysis of First Price Auctions with Unknown Collusive Schemes.
-    <a href="pdfs/collusion.pdf">[PDF]</a>
+    <a href="https://1drv.ms/b/c/038694cde8bba83d/IQCQWtDJK8cuQqLYX6NkgEC9AfEYsg-FKqssTOzt8hX3JRo">[PDF]</a>
     <span class="status">[Reject and Resubmit at Journal of Econometrics]</span>
   </li>
   <li>
     Information Disclosure and Mechanism Design with Endogenous Entry (with Shiyue Nie).
-    <a href="pdfs/disclosure.pdf">[PDF]</a>
+    <a href="https://1drv.ms/b/c/038694cde8bba83d/IQAh5mGbLZcbRat-7aRFEyVjAW83TcIiPZwZh4Rq9x3ptX8">[PDF]</a>
     <span class="status">[Under Review]</span>
   </li>
 </ol>
