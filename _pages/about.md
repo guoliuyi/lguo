@@ -6,6 +6,11 @@ redirect_from:
   - /about.html
 ---
 
+Liuyi Guo
+Assistant Professor, School of Economics, Renmin University of China
+Ph.D. in Economics, Texas A&M University, 2024
+Research fields: Microeconometrics, Applied Econometrics
+Email: lguo49@ruc.edu.cn 
 
 Working Papers
   1. Structural Analysis of First-Price Auctions with Unknown Collusive Schemes. [PDF] [Reject and Resubmit at Journal of Econometrics]
