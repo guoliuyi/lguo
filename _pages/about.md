@@ -49,7 +49,7 @@ redirect_from:
 
 <ol class="paper-list">
   <li>
-    The Impacts of Anti Bid Shopping Legislation on Procurement Contracting
+    The Impacts of Anti-Bid-Shopping Legislation on Procurement Contracting
     (with Yonghong An, Matthew Gentry, and Daiqiang Zhang).
     <span class="status">[Draft coming soon]</span>
   </li>
