@@ -10,9 +10,9 @@ redirect_from:
   <div class="name">Liuyi Guo</div>
 
   <div class="meta">
-    Assistant Professor, School of Economics, Renmin University of China <span>/</span>
-    Ph.D. in Economics, Texas A&amp;M University, 2024 <span>/</span>
-    Research fields: Microeconometrics, Applied Econometrics <span>/</span>
+    Assistant Professor, School of Economics, Renmin University of China 
+    Ph.D. in Economics, Texas A&amp;M University, 2024 
+    Research fields: Microeconometrics, Applied Econometrics 
     Email: <a href="mailto:lguo49@ruc.edu.cn">lguo49@ruc.edu.cn</a>
   </div>
 </div>
