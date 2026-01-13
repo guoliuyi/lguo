@@ -45,7 +45,7 @@ redirect_from:
   </li>
 </ol>
 
-## Work in Progress
+## Working in Progress
 
 <ol class="paper-list">
   <li>
