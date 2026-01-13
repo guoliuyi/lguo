@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Liuyi Guo-Website
+title: "Liuyi Guo-Website"
 redirect_from: 
   - /about/
   - /about.html
