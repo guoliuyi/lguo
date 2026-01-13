@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "Photo-Liuyi.png"
-  name             : "Liuyi Guo"
+  name             : # "Liuyi Guo"
   pronouns         : # example: "she/her"  
-  bio              : "Assistant Professor of Economics"
-  location         : #"Earth"
-  employer         : "Renmin University of China"
+  bio              : # "Assistant Professor of Economics"
+  location         : # "Earth"
+  employer         : # "Renmin University of China"
   uri              : # URL
-  email            : "mailto: lguo49@ruc.edu.cn" 
+  email            : # "mailto: lguo49@ruc.edu.cn" 
 
   # Academic websites
   academia         : # URL
