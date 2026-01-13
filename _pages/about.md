@@ -13,7 +13,7 @@ redirect_from:
     Assistant Professor, School of Economics, Renmin University of China </div>
     Ph.D. in Economics, Texas A&amp;M University, 2024  </div>
     Research fields: Microeconometrics, Applied Econometrics </div>
-    Email: <a href="mailto:lguo49@ruc.edu.cn">lguo49@ruc.edu.cn</a>
+    Email: <a href="mailto:lguo49@ruc.edu.cn">lguo49@ruc.edu.cn</a> </div>
   </div>
 </div>
 
