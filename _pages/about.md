@@ -24,12 +24,15 @@ redirect_from:
   <div class="meta" style="margin-bottom:0.25em; line-height:1.5;">
     Email: <a href="mailto:lguo49@ruc.edu.cn" style="color:#0056b3; text-decoration:none;">lguo49@ruc.edu.cn</a>
   </div>
-  <div class="meta" style="margin-top:0.25em; line-height:1.5;">
-    <a href="pdfs/LiuyiGuo_CV.pdf" target="_blank" rel="noopener noreferrer" style="color:#0056b3;">
+
+  <!-- ----- CV Link (commented out) -----
+  <div class="meta" style="margin-top:0.5em; line-height:1.5;">
+    <a href="pdfs/LiuyiGuo_CV.pdf" target="_blank" rel="noopener noreferrer" style="color:#0056b3; font-weight:bold;">
       Download CV
     </a>
   </div>
-</div>>
+  ----- End of CV link -->
+</div>
 
 ## Working Papers
 
