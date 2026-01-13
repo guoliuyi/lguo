@@ -39,14 +39,14 @@ redirect_from:
 <ol class="paper-list">
   <li>
     Structural Analysis of First Price Auctions with Unknown Collusive Schemes.
-    <a href="https://1drv.ms/b/c/038694cde8bba83d/IQCQWtDJK8cuQqLYX6NkgEC9AfEYsg-FKqssTOzt8hX3JRo"  target="_blank" rel="noopener noreferrer"
-       style="color:#0056b3;">[PDF]</a>
+    <a href="https://1drv.ms/b/c/038694cde8bba83d/IQCQWtDJK8cuQqLYX6NkgEC9AfEYsg-FKqssTOzt8hX3JRo" target="_blank" rel="noopener noreferrer"
+       style="color:#0056b3; text-decoration:none;">[PDF]</a>
     <span class="status">[Reject and Resubmit at <em>Journal of Econometrics</em>]</span>
   </li>
   <li>
     Information Disclosure and Mechanism Design with Endogenous Entry (with Shiyue Nie).
-    <a href="https://1drv.ms/b/c/038694cde8bba83d/IQAh5mGbLZcbRat-7aRFEyVjAW83TcIiPZwZh4Rq9x3ptX8"  target="_blank" rel="noopener noreferrer"
-       style="color:#0056b3;">[PDF]</a>
+    <a href="https://1drv.ms/b/c/038694cde8bba83d/IQAh5mGbLZcbRat-7aRFEyVjAW83TcIiPZwZh4Rq9x3ptX8" target="_blank" rel="noopener noreferrer"
+       style="color:#0056b3; text-decoration:none;">[PDF]</a>
     <span class="status">[Under Review]</span>
   </li>
 </ol>
