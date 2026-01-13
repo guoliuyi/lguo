@@ -42,7 +42,7 @@
 
 <ol class="paper-list">
   <li>
-    The Impacts of Anti-Bid-Shopping Legislation on Procurement Contracting
+    Do Anti-Bid-Shopping Policies Work? Empirical Evidence from Procurement Contracts
     (with Yonghong An, Matthew Gentry, and Daiqiang Zhang).
     <span class="status">[Draft coming soon]</span>
   </li>
