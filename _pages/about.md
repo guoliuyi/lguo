@@ -28,8 +28,7 @@ redirect_from:
   <div class="meta" style="margin-top:0.25em; line-height:1.5;">
     <a href="pdfs/LiuyiGuo_CV.pdf" target="_blank" rel="noopener noreferrer" style="color:#0056b3;">
       Download CV
-    </a>
-      -->
+    </a>-->
   </div>
 </div>>
 
