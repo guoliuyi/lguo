@@ -1,3 +1,11 @@
+---
+permalink: /
+title: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 <div style="margin-bottom:1.5em;">
   <div style="font-size:2rem; font-weight:600; margin-bottom:0.5em;">
