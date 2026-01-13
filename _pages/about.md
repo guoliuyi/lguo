@@ -37,7 +37,7 @@ redirect_from:
   <li>
     Structural Analysis of First Price Auctions with Unknown Collusive Schemes.
     <a href="https://1drv.ms/b/c/038694cde8bba83d/IQCQWtDJK8cuQqLYX6NkgEC9AfEYsg-FKqssTOzt8hX3JRo">[PDF]</a>
-    <span class="status">[Reject and Resubmit at Journal of Econometrics]</span>
+    <span class="status">[Reject and Resubmit at <em>Journal of Econometrics</em>]</span>
   </li>
   <li>
     Information Disclosure and Mechanism Design with Endogenous Entry (with Shiyue Nie).
