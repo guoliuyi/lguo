@@ -61,6 +61,7 @@ redirect_from:
   </li>
   <li>
     Nonparametric Estimation and Uniform Inference on Counterfactual Distributions with Proxy Variables.
+    <span class="status">[Draft available]</span>
   </li>
   <li>
     Synergy in Sequential First Price Auctions and Land Use Externalities
