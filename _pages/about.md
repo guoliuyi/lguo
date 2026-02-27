@@ -13,7 +13,7 @@ redirect_from:
   </div>
 
   <div class="meta" style="margin-bottom:0.25em; line-height:1.5;">
-    Assistant Professor, School of Economics, Renmin University of China
+    Assistant Professor, School of Economics, Renmin University of China, 2024-present
   </div>
   <div class="meta" style="margin-bottom:0.25em; line-height:1.5;">
     Ph.D. in Economics, Texas A&amp;M University, 2024
