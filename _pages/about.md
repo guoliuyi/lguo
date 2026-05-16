@@ -41,7 +41,7 @@ redirect_from:
     Structural Analysis of First-Price Auctions with Unknown Collusive Schemes.
     <a href="https://1drv.ms/b/c/038694cde8bba83d/IQCQWtDJK8cuQqLYX6NkgEC9AfEYsg-FKqssTOzt8hX3JRo" target="_blank" rel="noopener noreferrer"
        style="color:#0056b3; text-decoration:none;">[PDF]</a>
-    <span class="status">[Reject and Resubmit at <em>Journal of Econometrics</em>]</span>
+    <span class="status">[Submitted]</span>
   </li>
   <li>
     Information Disclosure and Mechanism Design with Endogenous Entry (with Shiyue Nie).
@@ -57,7 +57,7 @@ redirect_from:
   <li>
     Do Anti-Bid-Shopping Policies Work? Empirical Evidence from Procurement Contracts
     (with Yonghong An, Matthew Gentry, and Daiqiang Zhang).
-    <span class="status">[Draft coming soon]</span>
+    <span class="status">[Draft preparation]</span>
   </li>
   <li>
     Nonparametric Estimation and Uniform Inference on Counterfactual Distributions with Proxy Variables.
