@@ -45,7 +45,7 @@ redirect_from:
   </li>
   <li>
     Information Disclosure and Mechanism Design with Endogenous Entry (with Shiyue Nie).
-    <a href="https://1drv.ms/b/c/038694cde8bba83d/IQAh5mGbLZcbRat-7aRFEyVjAW83TcIiPZwZh4Rq9x3ptX8" target="_blank" rel="noopener noreferrer"
+    <a href="https://1drv.ms/b/c/038694cde8bba83d/IQBuYg9Zz4AdTYx5Penp5b18ATp9K_9YU6O379PH5iWzkuQ?e=c8vWP0" target="_blank" rel="noopener noreferrer"
        style="color:#0056b3; text-decoration:none;">[PDF]</a>
     <span class="status">[Revise and Resubmit at <em>Games and Economic Behavior</em>]</span>
   </li>
