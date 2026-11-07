@@ -19,6 +19,12 @@ redirect_from:
     Ph.D. in Economics, Texas A&amp;M University, 2024
   </div>
   <div class="meta" style="margin-bottom:0.25em; line-height:1.5;">
+    M.S. in Economics, University of Wisconsin-Madison, 2018
+  </div>
+  <div class="meta" style="margin-bottom:0.25em; line-height:1.5;">
+    B.A. in Economics, Shanghai University of Finance and Economics, 2016
+  </div>
+  <div class="meta" style="margin-bottom:0.25em; line-height:1.5;">
     Research fields: Microeconometrics, Applied Econometrics
   </div>
   <div class="meta" style="margin-bottom:0.25em; line-height:1.5;">
