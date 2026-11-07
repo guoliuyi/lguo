@@ -57,14 +57,14 @@ redirect_from:
   <li>
     Do Anti-Bid-Shopping Policies Work? Empirical Evidence from Procurement Contracts
     (with Yonghong An, Matthew Gentry, and Daiqiang Zhang).
-    <span class="status">[Draft preparation]</span>
+    <span class="status">[Draft available]</span>
   </li>
   <li>
     Nonparametric Estimation and Uniform Inference on Counterfactual Distributions with Proxy Variables.
     <span class="status">[Draft available]</span>
   </li>
   <li>
-    Synergy in Sequential First Price Auctions and Land Use Externalities
+    Synergy in Sequential First-Price Auctions and Land Use Externalities
     (with Yonghong An).
     <span class="status">[In progress]</span>
   </li>
