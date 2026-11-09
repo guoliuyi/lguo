@@ -25,7 +25,7 @@ redirect_from:
     B.A. in Economics, Shanghai University of Finance and Economics, 2016
   </div>
   <div class="meta" style="margin-bottom:0.25em; line-height:1.5;">
-    Research fields: Microeconometrics, Applied Econometrics
+    Research fields: Microeconometrics; Applied Econometrics
   </div>
   <div class="meta" style="margin-bottom:0.25em; line-height:1.5;">
     Email: <a href="mailto:lguo49@ruc.edu.cn" style="color:#0056b3; text-decoration:none;">lguo49@ruc.edu.cn</a>
